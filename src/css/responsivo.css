@@ -52,6 +52,9 @@
         width: 300px;
         height: 169px;
     }
+    .fundo-video{   
+        display: none;
+    }
 
     @media (max-width: 376px) {
         .modal #video {
